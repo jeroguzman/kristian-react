@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "nombre": "Pelea esta noche Kristian",
+        "imagen": "https://phantom-marca-mx.unidadeditorial.es/9009a7fa3b0567b6a9e62cd8634dfbde/resize/660/f/webp/mx/assets/multimedia/imagenes/2023/05/06/16834014739963.jpg",
+        "descripcion": "Pelea esta noche Kristian, no te la pierdas"
+    },
+    {
+        "id": "2",
+        "nombre": "Kristian gano la pelea",
+        "imagen": "https://elcomercio.pe/resizer/3qP3hht-02cXM48c3AtaGcwscZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MNRKXZ7RGFEVVORGNEBO3QUQLU.png",
+        "descripcion": "Kristian gano la pelea, no te la pierdas"
+    },
+    {
+        "id": "3",
+        "nombre": "Kristian perdio la pelea",
+        "imagen": "https://blog.marti.mx/wp-content/uploads/2022/12/cuanto-dura-una-pelea-de-box-1024x683.jpg",
+        "descripcion": "Kristian perdio la pelea, no te la pierdas"
+    }
+]
